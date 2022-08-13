@@ -11,6 +11,7 @@ https://git-scm.com/book/ru/v2/Введение-Первоначальная-н�
 
 $ git config --list
 user.name=John Doe
+Hello world!
 user.email=johndoe@example.com
 color.status=auto
 color.branch=auto
